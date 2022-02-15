@@ -101,6 +101,7 @@ a button{
 @media(max-width:400px){
     main{
         display: block;
+        Margin:40px 0 40px 0;
 
         min-width: 82vw;
         height: 100vh;
